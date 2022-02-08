@@ -1,2 +1,2 @@
-# aula-bootstrap
-Utilizando Bootstrap 
+# Projeto-bootstrap
+Utilizando Bootstrap proposto pela Digital innovation One.
